@@ -1,7 +1,7 @@
 # My_first_API
 # API de Gestión de Pedidos y Usuarios
 
-Esta es una API profesional desarrollada con **FastAPI** que implementa un sistema de gestión de usuarios, manejo de saldos (fondos) y procesamiento de pedidos. Utiliza una arquitectura asíncrona y estándares de seguridad de alto nivel. La intención de este proyecto es la de aprender a crear una API, gestionar una base de datos y aprender seguradad basica como el "hash".
+Esta es una API profesional desarrollada con **FastAPI** que implementa un sistema de gestión de usuarios, manejo de saldos (fondos) y procesamiento de pedidos. Utiliza una arquitectura asíncrona y estándares de seguridad de alto nivel. La intención de este proyecto es la de aprender a crear una API, gestionar una base de datos y aprender seguradad basica como el "hashing".
 
 ## Características Técnicas
 
